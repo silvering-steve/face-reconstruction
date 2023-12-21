@@ -1,0 +1,10 @@
+matplotlib
+opencv-python
+tensorboard
+tensorflow
+kornia
+dominate
+trimesh
+Ninja
+mtcnn
+nvdiffrast @ git+https://github.com/NVlabs/nvdiffrast
